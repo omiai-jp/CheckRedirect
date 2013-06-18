@@ -1,0 +1,3 @@
+以下のような形でコマンドを打って、画面上にリダイレクト履歴を表示します。
+
+adb shell "am start -n jp.co.net_marketing.checkredirects/.MainActivity http://bit.ly/Z8iYCz?r=qr"
